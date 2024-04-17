@@ -16,6 +16,10 @@ I’m a passionate Software Developer known for developing the award-winning pro
 		<img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=300&size=50&pause=1000&color=712DC8FF&random=false&width=820&height=120&lines=Junior+Software+Engineer;%F0%9F%9B%A0+Full+Stack+Developer+%F0%9F%9B%A0;Fresh+Grad%2C+Seasoned+Skills" alt="Typing SVG" />
 	</a>
 </p>
+
+<p align="center">
+			<img src="https://github-readme-streak-stats.herokuapp.com?user=MedlejC&theme=dark&hide_border=true&border_radius=25&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+ </p>
   
 
 <h1 font-weight="bold">
