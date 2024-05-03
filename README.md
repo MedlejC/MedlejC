@@ -29,27 +29,27 @@ I’m a passionate Software Developer known for developing the award-winning pro
   📚 Currently Learning
 </h1>
 
-<table align="center" style="width:100%; max-width: 800px;">
-  <tr>
-    <td align="center" >
-      <div>Cyber Security</div>
-	<br></br>
-      <a href="https://tryhackme.com/p/BlvckHawk">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/BlvckHawk.png" alt="TryHackMe">
-      </a>
-    </td>
-    <td align="center" >
-      <div>Artificial Intelligence & Data Science</div>
-	<br></br>
-      <a href="https://www.datacamp.com/portfolio/CharbelMedlej">
-        <img src="assets/datacamp_logo.png" alt="DataCamp" style="height:70px">
-      </a>
-    </td>
-  </tr>
-</table>
+</h1>
 
-<br>
-</br>
+<ul>
+  <li>
+    <strong>Cyber Security</strong>
+	<br></br>	  
+    <a href="https://tryhackme.com/p/BlvckHawk">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/BlvckHawk.png" alt="TryHackMe" style="width: 200px;">
+    </a>
+  </li>
+	<br></br>
+  <li>
+    <strong>Artificial Intelligence & Data Science</strong>
+	  <br></br>
+    <a href="https://www.datacamp.com/portfolio/CharbelMedlej">
+      <img src="assets/datacamp_logo.png" alt="DataCamp" style="height: 70px;">
+    </a>
+  </li>
+</ul>
+
+<br></br>
 
 <h1 font-weight="bold">
   ⚙️ My Skills  
