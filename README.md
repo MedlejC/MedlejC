@@ -29,27 +29,21 @@ I’m a passionate Software Developer known for developing the award-winning pro
   📚 Currently Learning
 </h1>
 
-<table align="center">
+<table align="center" style="width:100%; max-width: 800px;">
   <tr>
-   <td align="center">
-     Cyber Security
-       <br></br>
-      <div>
-        <a href="https://tryhackme.com/p/BlvckHawk">
-         <img src="https://tryhackme-badges.s3.amazonaws.com/BlvckHawk.png" alt="TryHackMe">
-        </a>
-      </div>
+    <td align="center" style="width: 50%;">
+      <div style="margin-bottom: 10px">Cyber Security</div>
+      <a href="https://tryhackme.com/p/BlvckHawk">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/BlvckHawk.png" alt="TryHackMe" style="max-width: 100%; height: auto;">
+      </a>
     </td>
-    <td align="center">
-      Artificial Intelligence & Data Science
-       <br></br>
-      <div>
-        <a href="https://www.datacamp.com/portfolio/CharbelMedlej">
-          <img src="assets/datacamp_logo.png" style="border-radius: 25px" height="60px" alt="DataCamp"/>
-        </a>
-      </div>
+    <td align="center" style="width: 50%;">
+      <div style="margin-bottom: 10px">Artificial Intelligence & Data Science</div>
+      <a href="https://www.datacamp.com/portfolio/CharbelMedlej">
+        <img src="assets/datacamp_logo.png" alt="DataCamp" style="border-radius: 25px; max-width: 100%; height: 60px;">
+      </a>
     </td>
-  <tr>
+  </tr>
 </table>
 
 <br>
