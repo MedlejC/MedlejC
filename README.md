@@ -6,6 +6,7 @@
 Hi there! Nice to meet you 🙂
 
 I’m a passionate Software Developer known for developing the award-winning project, Artemis. With a strong foundation in both individual achievements and collaborative efforts, I bring a rich blend of technical expertise and a relentless drive for excellence to every project. My background includes delivering innovative solutions and continuously enhancing my skill set in the ever-evolving tech landscape. Whether it’s developing robust software or engaging with cutting-edge technologies, I’m committed to fostering significant advancements and achieving superior outcomes in full-stack development.<br>
+
 </p>
 
 <br>
@@ -20,7 +21,39 @@ I’m a passionate Software Developer known for developing the award-winning pro
 <p align="center">
 			<img src="https://github-readme-streak-stats.herokuapp.com?user=MedlejC&theme=dark&hide_border=true&border_radius=25&exclude_days=Sun%2CSat" alt="GitHub Streak" />
  </p>
-  
+
+<br>
+</br>
+
+<h1>
+  📚 Currently Learning
+</h1>
+
+<table align="center">
+  <tr>
+   <td align="center">
+     Cyber Security
+       <br></br>
+      <div>
+        <a href="https://tryhackme.com/p/BlvckHawk">
+         <img src="https://tryhackme-badges.s3.amazonaws.com/BlvckHawk.png" alt="TryHackMe">
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      Artificial Intelligence & Data Science
+       <br></br>
+      <div>
+        <a href="https://www.datacamp.com/portfolio/CharbelMedlej">
+          <img src="assets/datacamp_logo.png" style="border-radius: 25px" height="60px" alt="DataCamp"/>
+        </a>
+      </div>
+    </td>
+  <tr>
+</table>
+
+<br>
+</br>
 
 <h1 font-weight="bold">
   ⚙️ My Skills  
