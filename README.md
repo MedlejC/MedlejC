@@ -5,9 +5,12 @@
 <h1>🧬 About Me</h1>
 Hi there! Nice to meet you 🙂
 
-I’m a passionate Software Developer known for developing the award-winning project, Artemis. With a strong foundation in both individual achievements and collaborative efforts, I bring a rich blend of technical expertise and a relentless drive for excellence to every project. My background includes delivering innovative solutions and continuously enhancing my skill set in the ever-evolving tech landscape. Whether it’s developing robust software or engaging with cutting-edge technologies, I’m committed to fostering significant advancements and achieving superior outcomes in full-stack development.<br>
+As a dedicated Junior Software Engineer, I am deeply committed to continuous learning and professional growth.  
+I stay updated on the latest advancements in the tech industry, closely observing trends and tools that can enhance my career.  
+Driven by curiosity and a passion for technology, I am always seeking opportunities to refine my skills and expand my knowledge.   
+I welcome connections on LinkedIn <span> <a href="https://www.linkedin.com/in/charbel-medlej"> <img src="https://skillicons.dev/icons?i=linkedin" height=20px/> </a> </span> to exchange insights and explore potential collaborations. Let’s connect and inspire each other!
 
-</p>
+
 
 <br>
 </br>
