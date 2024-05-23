@@ -25,8 +25,7 @@ I welcome connections on LinkedIn <span> <a href="https://www.linkedin.com/in/ch
 			<img src="https://github-readme-streak-stats.herokuapp.com?user=MedlejC&theme=dark&hide_border=true&border_radius=25&exclude_days=Sun%2CSat" alt="GitHub Streak" />
  </p>
 
-<br>
-</br>
+<br></br>
 
 <h1>
   📚 Currently Learning
